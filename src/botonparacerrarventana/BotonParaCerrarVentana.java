@@ -7,7 +7,7 @@ public class BotonParaCerrarVentana extends JFrame {
     
     // Constructor para configurar el panel
     public BotonParaCerrarVentana() {
-        setTitle("Boton Para Cerrar Ventana"); // Título de la ventana
+        setTitle("Botón Para Cerrar Ventana"); // Título de la ventana
         setSize(1280, 720); // Dimensiones del panel
         setLayout(null); // Sin diseño predeterminado
         setResizable(false); // No permite cambiar el tamaño
